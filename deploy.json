@@ -13,7 +13,7 @@
                 "envs": [
                     {
                         "key": "APP_NAME",
-                        "value": "Wave",
+                        "value": "Blood-U",
                         "scope": "RUN_TIME"
                     },
                     {
